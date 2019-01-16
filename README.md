@@ -1,2 +1,2 @@
 # TimeBank
-Design101 Timebank Application
+Design101 Timebank Application Design
